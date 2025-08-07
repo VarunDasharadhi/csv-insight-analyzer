@@ -1,6 +1,6 @@
 # 📊 CSV Insight Analyzer
 
-A powerful and beginner-friendly web app built with **Streamlit** that allows users to upload messy or clean CSV files and instantly get deep insights — including:
+A powerful and beginner-friendly web app built with **Streamlit** that allows users to upload messy or clean CSV files and instantly get deep insights including:
 
 ✅ Column types  
 ✅ Missing values  
